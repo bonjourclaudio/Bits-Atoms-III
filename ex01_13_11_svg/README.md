@@ -8,4 +8,4 @@ SVG stands for Scalable Vector Graphics. It's a syntax, based on XML, used to sp
 
 A ViewBox is an (optional) attribute, which creates a "container", in which the graphic itself gets displayed. It specifies the coordinate system and aspect ratio in which the SVG’s content is drawn. By using a viewBox, you can make an SVG scale reliably: no matter how large or small the SVG is displayed, it will always fit its container while preserving its proportions.
 
-[ViewBox Image]("viewbox-values.png")
+![ViewBox Values](viewbox-values.png)
